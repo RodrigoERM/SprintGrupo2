@@ -1,10 +1,9 @@
-## SprintGrupo2
 ## Integrantes: Rodrigo Rojas, Rodrigo Gonzáles y Joeshep Lopez.
 
 ## Ruta de los repositorios:
 - Rodrigo Rojas: https://github.com/RodrigoERM/SprintGrupo2
-- Rodrigo Gonzáles: 
-- Joeshep Lopez: 
+- Rodrigo Gonzáles: https://github.com/Skeleton997/SprintFinalM5G02
+- Joeshep Lopez: https://github.com/Joelopez28/AppWebDinamicasJava
 
 ## Sistema de Gestión de Consultoría
 Este proyecto es un sitio web dinámico bajo el patrón de diseño MVC, que ademas permite conectarse a una base de datos Oracle, para una empresa de consultoría de riesgos. El sistema permite gestionar diferentes tipos de usuarios (Clientes, Profesionales, Administrativos), registrar capacitaciones, etc.
